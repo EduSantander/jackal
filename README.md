@@ -4,7 +4,7 @@ Este proyecto contiene los archivos necesarios para simular el robot Jackal en R
 
 ## Requisitos mínimos
 
-- **Sistema operativo:** Ubuntu 20.04 o superior
+- **Sistema operativo:** Ubuntu 22.04 LTS
 - **ROS 2:** Humble
 - **Gazebo:** Instalado y configurado para ROS 2
 - **Python:** 3.8 o superior
